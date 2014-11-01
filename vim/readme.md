@@ -2,7 +2,7 @@
 ## set color shemes
 
 - Download colorShemes
-- # mkdir ~/.vim/colors/
+- $ mkdir ~/.vim/colors/
 - mv colorSheme.vim ~/.vim/colors/
 - vi .vimrc
 ```
